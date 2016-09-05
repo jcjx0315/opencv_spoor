@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.6.3摄像头边缘检测", "1.6.3摄像头边缘检测\1.6.3摄像头边缘检测.vcxproj", "{A0CFA3E1-D01E-4B3E-A642-7C53F7529799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0CFA3E1-D01E-4B3E-A642-7C53F7529799}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A0CFA3E1-D01E-4B3E-A642-7C53F7529799}.Debug|Win32.Build.0 = Debug|Win32
+		{A0CFA3E1-D01E-4B3E-A642-7C53F7529799}.Release|Win32.ActiveCfg = Release|Win32
+		{A0CFA3E1-D01E-4B3E-A642-7C53F7529799}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
